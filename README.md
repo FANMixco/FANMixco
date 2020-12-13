@@ -25,7 +25,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 𝐖𝐇𝐘 𝐌𝐄 & 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐀𝐓𝐈𝐎𝐍𝐒
 
 - I’m a visionary person who started at an early age to develop software (16 y.o.). Throughout my career, innovation has played a key role. Also, I learned when to pivot and develop other important skills like Public Speaking, Cultural Intelligence and Team Building.
-- I wrote the 1st Folkloric Salvadoran Book in English.
+- I wrote the [1st Folkloric Salvadoran Book in English][6].
 - I crossed the ocean, winning an Erasmus Mundus scholarship and broke many Latin American stereotypes in Europe. Plus, I won international competitions during my studies and organized a conference for half of Poland, bringing International Speakers.
 - Why me? Test my apps and check their quality. Plus, I've led successful RPAs & Apps migrations to Azure during Covid-19. Feel free to read some reviews in my profile. Feel free to read some reviews on my [LinkedIn profile][3].
 
@@ -40,3 +40,4 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
   [3]: https://www.linkedin.com/in/fanmixco/
   [4]: https://federiconavarrete.com
   [5]: https://supernovaic.com
+  [6]: https://www.amazon.com/dp/B08MQFZNM5
