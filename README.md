@@ -11,7 +11,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓
 
-- An experienced software innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. -> [federiconavarrete.com/apps.html][2]
+- An experienced software innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. ➡️ [federiconavarrete.com/apps.html][2]
 - A seasoned seller who has presented Winning Elevator Pitches to Microsoft, Cisco, the UN, and NASA for their innovation contests.
 - A visionary person who is always searching for the next big thing and automates whenever is possible. Again, do the words to save FTEs are familiar to you? 🤔
 - An expert trainer who has trained over 100 people in soft-skills and multiple IT solutions like Automation Anywhere and Azure.
