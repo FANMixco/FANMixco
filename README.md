@@ -4,9 +4,9 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 𝐓𝐇𝐄 𝐈𝐓 𝐏𝐑𝐎𝐁𝐋𝐄𝐌𝐒 𝐈 𝐒𝐎𝐋𝐕𝐄
 
-- Lead effective RPAs development based on [Best Practices][1].
-- Lead and develop innovative apps in .NET and JavaScript with excellent UIs and UX.
-- Effective communication among IT teams, operations, and management.
+- Lead organizations in their Digital Transformations with RPA, Cloud, and ML, based on [Best Practices][1].
+- Lead the development of innovative apps in .NET and JS with excellent UIs and UX.
+- Effective communication among IT teams, ops, and management.
 - Design and implement effective migrations from on-premises to public clouds.
 
 𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓
@@ -18,15 +18,16 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 𝐌𝐘 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 (𝐢𝐧 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 & 𝐒𝐩𝐚𝐧𝐢𝐬𝐡):
 
-- Project management and design cloud migration plans.
+- Project management and cloud migrations.
 - Development of web and multi-platform apps.
 - Trainings: RPA Best Practices, Elevator Pitching, and Storytelling.
 
 𝐖𝐇𝐘 𝐌𝐄 & 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐀𝐓𝐈𝐎𝐍𝐒
 
-- I’m a visionary person who started at an early age to develop software (16 y.o.). Throughout my career, Innovation has played a key role, and most importantly, I learned when to pivot and develop other important skills like Public Speaking and Team Building.
-- I crossed the ocean, winning an Erasmus Mundus scholarship and broke many Latin American stereotypes in Europe. Also, I won international competitions during my studies and organized a conference for half of Poland that brought International Speakers.
-- Why me? I invite you to test my apps and see their quality. Plus, I've led successful RPAs & Apps migrations to Azure during Covid-19. Feel free to read some reviews on my [LinkedIn profile][3].
+- I’m a visionary person who started at an early age to develop software (16 y.o.). Throughout my career, innovation has played a key role. Also, I learned when to pivot and develop other important skills like Public Speaking, Cultural Intelligence and Team Building.
+- I wrote the 1st Folkloric Salvadoran Book in English.
+- I crossed the ocean, winning an Erasmus Mundus scholarship and broke many Latin American stereotypes in Europe. Plus, I won international competitions during my studies and organized a conference for half of Poland, bringing International Speakers.
+- Why me? Test my apps and check their quality. Plus, I've led successful RPAs & Apps migrations to Azure during Covid-19. Feel free to read some reviews in my profile. Feel free to read some reviews on my [LinkedIn profile][3].
 
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
 
