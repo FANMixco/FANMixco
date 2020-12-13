@@ -1,6 +1,6 @@
-If you feel that **innovation** and **automation** are missing or not working as expected in your organization, especially in this new era, then something needs to be changed! 💡 Maybe the words to save FTEs are familiar to you.
+If you feel that **innovation** and **automation** are missing or not working as expected in your organization (especially in this new era), then something needs to change! 💡 Maybe the words to save FTEs are familiar to you.
 
-I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation in my solutions, what did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a **leader** capable of leading/solving these “impossible” tasks, that’s me, let’s work together in this new future. Are you ready?
+I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading and solving these “impossible” tasks, that’s me! Let’s work together in this new future. Are you ready?
 
 𝐓𝐇𝐄 𝐈𝐓 𝐏𝐑𝐎𝐁𝐋𝐄𝐌𝐒 𝐈 𝐒𝐎𝐋𝐕𝐄
 
