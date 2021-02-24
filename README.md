@@ -26,7 +26,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 - I’m a visionary person who started at an early age to code (16 y.o.). Throughout my career, innovation has played a key role. I learned when to pivot and develop other important skills like Public Speaking, Cultural Intelligence and Team Building.
 - I wrote the 1st Salvadoran Folkloric Book in English, [**Timeless Stories of El Salvador**][6].
-- I crossed the ocean, winning an Erasmus Mundus scholarship. I broke many Latin American stereotypes in Europe. I won international competitions during my studies. Plus, I organized a Toastmasters conference for half of Poland, bringing International Speakers.
+- I crossed the ocean, winning an Erasmus Mundus scholarship. I broke many Latin American stereotypes in Europe. I won international competitions during my studies. Plus, I organized a Toastmasters Conference for half of Poland, bringing International Speakers.
 - Why me? Check my [apps][7] and their quality. Also, I've led successful RPAs & Apps migrations to Azure during Covid-19. Feel free to read some reviews in my profile. Feel free to read the reviews on my [LinkedIn profile][3].
 
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
