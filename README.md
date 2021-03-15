@@ -33,6 +33,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 - [federiconavarrete.com][4]
 - [supernovaic.com][5]
+- [Cyber Prophets][8]
 
 
   [1]: https://fanmixco.github.io/rpaBestPractices/
@@ -42,3 +43,4 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
   [5]: https://supernovaic.com
   [6]: https://www.amazon.com/dp/B08MQFZNM5
   [7]: https://federiconavarrete.com/apps.html
+  [8]: https://redcircle.com/shows/cyber-prophets
