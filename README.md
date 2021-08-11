@@ -1,3 +1,5 @@
+![FANMixco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanmixco&show_icons=true&theme=radical)
+
 If you feel that **innovation** and **automation** are missing or not working as expected in your organization (especially in this new era), then something needs to change! 💡 Maybe the words to save FTEs are familiar to you.
 
 I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading and solving these “impossible” tasks, that’s me! Let’s work together in this new future. Are you ready?
@@ -44,3 +46,5 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
   [6]: https://www.amazon.com/dp/B08MQFZNM5
   [7]: https://federiconavarrete.com/apps.html
   [8]: https://redcircle.com/shows/cyber-prophets
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanmixco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
