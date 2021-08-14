@@ -64,7 +64,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 ### Download My Android Apps!
 
-|  App  |Latest Release|
+|  App  |Play Store|
 |:----------|:------------:|
 |**Toastmasters Timer**|[![Toastmasters Timer](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dtk.supernova.tmtimer.tk.supernova.tmtimer%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=tk.supernova.tmtimer.tk.supernova.tmtimer)|
 |**Typical Salvadoran Dishes**|[![Typical Salvadoran Dishes](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dtk.supernova.tipsal%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=tk.supernova.tipsal)|
