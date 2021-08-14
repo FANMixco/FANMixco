@@ -37,6 +37,28 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 - [supernovaic.com][5]
 - [Cyber Prophets][8]
 
+### Support my innovations!
+
+<a href="https://github.com/sponsors/FANMixco/" target="_blank">
+   <img src="https://raw.githubusercontent.com/FANMixco/Xamarin-SearchBar/master/bmc-rezr5vpd.gif" alt="sponsor" />
+</a>
+
+###  Download my Xamarin.Android libs!
+
+|  Package  |Latest Release|
+|:----------|:------------:|
+|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://buildstats.info/nuget/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
+|**Xamarin-MaterialSearchBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-MaterialSearchBar)](https://www.nuget.org/packages/Xamarin-MaterialSearchBar/)|
+|**BubbleTabs.Xamarin**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/BubbleTabs.Xamarin)](https://www.nuget.org/packages/BubbleTabs.Xamarin/)|
+|**Xamarin-OneMoreFabMenu**|[![NuGet Badge Xamarin-OneMoreFabMenu](https://buildstats.info/nuget/Xamarin-OneMoreFabMenu)](https://www.nuget.org/packages/Xamarin-OneMoreFabMenu/)|
+|**Xamarin-MaterialSearchView**|[![NuGet Badge Xamarin-MaterialSearchView](https://buildstats.info/nuget/Xamarin-MaterialSearchView)](https://www.nuget.org/packages/Xamarin-MaterialSearchView/)|
+|**Xamarin-SmartRate**|[![NuGet Badge Xamarin-SmartRate](https://buildstats.info/nuget/Xamarin-SmartRate)](https://www.nuget.org/packages/Xamarin-SmartRate/)|
+|**ZoomImage-Xamarin**|[![NuGet Badge ZoomImage-Xamarin](https://buildstats.info/nuget/ZoomImage-Xamarin)](https://www.nuget.org/packages/ZoomImage-Xamarin/)|
+|**Xamarin-FiveStarsRate**|[![NuGet Badge Xamarin-FiveStarsRate](https://buildstats.info/nuget/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|
+|**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://buildstats.info/nuget/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
+|**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanmixco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   [1]: https://fanmixco.github.io/rpaBestPractices/
   [2]: https://federiconavarrete.com/apps.html
@@ -46,5 +68,3 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
   [6]: https://www.amazon.com/dp/B08MQFZNM5
   [7]: https://federiconavarrete.com/apps.html
   [8]: https://redcircle.com/shows/cyber-prophets
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanmixco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
