@@ -58,6 +58,18 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 |**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://buildstats.info/nuget/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
 |**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
 
+### Download My Android Apps!
+
+|  App  |Latest Release|
+|:----------|:------------:|
+|**Toastmasters Timer**|[![Toastmasters Timer](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dtk.supernova.tmtimer.tk.supernova.tmtimer%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=tk.supernova.tmtimer.tk.supernova.tmtimer)|
+|**Typical Salvadoran Dishes**|[![Typical Salvadoran Dishes](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dtk.supernova.tipsal%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=tk.supernova.tipsal)|
+|**The Mayan Route**|[![The Mayan Route](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dtk.supernovaic.themayanroute%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=tk.supernovaic.themayanroute)|
+|**Gravity Now!**|[![Gravity Now!](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dtk.supernova.gnow%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=tk.supernova.gnow)|
+|**Toastmasters Timer Lite**|[![Toastmasters Timer Lite](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dapp.web.tm_timer_a31ad.twa%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=app.web.tm_timer_a31ad.twa)|
+|**Federico Stories**|[![Federico Stories](https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dtk.supernova.federicostories%26l%26m%3D%24installs%2520installs)](https://play.google.com/store/apps/details?id=tk.supernova.federicostories)|
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanmixco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   [1]: https://fanmixco.github.io/rpaBestPractices/
