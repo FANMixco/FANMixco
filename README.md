@@ -78,6 +78,13 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO App Market**._
 
+### Follow me at:
+
+[![LinkedIn](https://www.iconninja.com/files/711/137/248/logo-linkedin-icon.png)](https://bit.ly/3xLCmvb)
+
+[![YouTube](https://www.iconninja.com/files/167/127/710/youtube-logo-icon.png)](https://youtube.com/c/FedericoNavarrete)
+
+
   [1]: https://fanmixco.github.io/rpaBestPractices/
   [2]: https://federiconavarrete.com/apps.html
   [3]: https://www.linkedin.com/in/fanmixco/
