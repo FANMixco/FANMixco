@@ -75,7 +75,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 |**Let's Stop Diabetes**|||[![LSD](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/3BAlVEY)|||
 |**The Wet Zone**|||[![TWZ](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/36YeWaS)|||
 
-_Some of the Andriod Apps are also available in **Xiaomi GetApps** and **OPPO App Market**._
+_Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO App Market**._
 
   [1]: https://fanmixco.github.io/rpaBestPractices/
   [2]: https://federiconavarrete.com/apps.html
