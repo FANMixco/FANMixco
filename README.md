@@ -19,7 +19,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓
 
-- An experienced software innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. ➡️ [federiconavarrete.com/apps.html][2]
+- An experienced software innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. ➡️ [Portfolio][2]
 - A seasoned seller who has presented Winning Elevator Pitches to Microsoft, Cisco, the UN, and NASA for their innovation contests.
 - A visionary person who is always searching for the next big thing and automates whenever is possible. Again, do the words to save FTEs are familiar to you? 🤔
 - An expert trainer who has trained over 100 people in soft-skills and multiple IT solutions like Automation Anywhere and Azure.
@@ -40,7 +40,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
 
 - [federiconavarrete.com][4]
-- [supernovaic.com][5]
+- [Supernova IC][5]
 - [Cyber Prophets][8]
 
 ### Get a copy of my book!
@@ -69,9 +69,9 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 |**Toastmasters Timer**|[![Toastmasters Timer](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://play.google.com/store/apps/details?id=tk.supernova.tmtimer.tk.supernova.tmtimer)|[![Toastmasters Timer](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/galaxy_micro.png)](https://galaxy.store/tmtimer)|[![Toastmasters Timer](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/36Ug2EC)|[![Toastmasters Timer](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/amazon_micro.png)](https://amzn.to/3eSF23h)|[![Toastmasters Timer](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/huawei_micro.png)](https://bit.ly/3rqoC7w)|
 |**The Mayan Route**|[![The Mayan Route](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://bit.ly/37cTxuR)|[![The Mayan Route](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/galaxy_micro.png)](https://galaxy.store/lrm)|[![The Mayan Route](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/3i1nX9l)|[![The Mayan Route](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/amazon_micro.png)](https://amzn.to/3yjg6df)|[![The Mayan Route](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/huawei_micro.png)](https://bit.ly/3zw36kC)|
 |**Typical Salvadoran Dishes**|[![Typical Salvadoran Dishes](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://bit.ly/36XKnSB)|[![Typical Salvadoran Dishes](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/galaxy_micro.png)](https://galaxy.store/tipsal)|[![Typical Salvadoran Dishes](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/2V4goFY)|[![Typical Salvadoran Dishes](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/amazon_micro.png)](https://amzn.to/3i0bdQg)|[![Typical Salvadoran Dishes](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/huawei_micro.png)](https://bit.ly/3eMF251)|
-|**Gravity Now!**|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://bit.ly/3rv7vS5)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/galaxy_micro.png)](https://galaxy.store/gnow)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/36ZaRTW)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/amazon_micro.png)](https://amzn.to/3y2egwV)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/huawei_micro.png)](https://bit.ly/3iBkjly)|
+|[**Gravity Now!**](https://fanmixco.github.io/gravitynow-angular)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://bit.ly/3rv7vS5)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/galaxy_micro.png)](https://galaxy.store/gnow)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/36ZaRTW)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/amazon_micro.png)](https://amzn.to/3y2egwV)|[![Gravity Now!](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/huawei_micro.png)](https://bit.ly/3iBkjly)|
 |**Toastmasters Timer Lite**|[![Toastmasters Timer Lite](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://bit.ly/3zx5zeE)|[![Toastmasters Timer Lite](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/galaxy_micro.png)](https://galaxy.store/tmtimerl)||[![Toastmasters Timer Lite](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/amazon_micro.png)](https://amzn.to/3iBmaXy)|[![Toastmasters Timer Lite](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/huawei_micro.png)](https://bit.ly/3l6MM5O)|
-|**Federico Stories**|[![Federico Stories](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://play.google.com/store/apps/details?id=tk.supernova.federicostories)||||||
+|[**Federico Stories**](https://federicostories.blogspot.com)|[![Federico Stories](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/google_play_micro.png)](https://play.google.com/store/apps/details?id=tk.supernova.federicostories)||||||
 |**Let's Stop Diabetes Premium**|||[![LSD Premium](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/3BLy1vh)|||
 |**Let's Stop Diabetes**|||[![LSD](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/3BAlVEY)|||
 |**The Wet Zone**|||[![TWZ](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/36YeWaS)|||
@@ -80,10 +80,9 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
 
 ### Follow me at:
 
-[![LinkedIn](https://www.iconninja.com/files/711/137/248/logo-linkedin-icon.png)](https://bit.ly/3xLCmvb)
-
-[![YouTube](https://www.iconninja.com/files/167/127/710/youtube-logo-icon.png)](https://youtube.com/c/FedericoNavarrete)
-
+|  LinkedIn  |YouTube|Instagram|RedCircle|
+|:----------|:------------:|:------------:|:------------:|
+|[![LinkedIn](https://i.stack.imgur.com/idQWu.png)](https://bit.ly/3xLCmvb)|[![YouTube](https://i.stack.imgur.com/CFPMR.png)](https://youtube.com/c/FedericoNavarrete)|[![Instagram](https://i.stack.imgur.com/PIfqY.png)](https://www.instagram.com/federico_the_consultant)|[![RedCircle Podcast](https://i.stack.imgur.com/4XICF.png)](https://redcircle.com/shows/cyber-prophets)|
 
   [1]: https://fanmixco.github.io/rpaBestPractices/
   [2]: https://federiconavarrete.com/apps.html
