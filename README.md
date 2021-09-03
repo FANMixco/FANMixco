@@ -1,3 +1,7 @@
+### [Winning Elevator Pitch (Speech) - Citython 2021, Eindhoven Edition | Save That Power 🔌](https://www.citython.eu/2021eindhoven)
+
+[![Citython 2021](https://img.youtube.com/vi/IcWZ962uYy0/0.jpg)](https://www.youtube.com/watch?v=IcWZ962uYy0 "Citython 2021")
+
 ![FANMixco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanmixco&show_icons=true&theme=radical)
 
 ### Support my innovations!
@@ -5,10 +9,6 @@
 [![sponsor me](https://raw.githubusercontent.com/FANMixco/Xamarin-SearchBar/master/bmc-rezr5vpd.gif)](https://github.com/sponsors/FANMixco/)
 
 ### 
-
-### [Winning Elevator Pitch (Speech) - Citython 2021, Eindhoven Edition | Save That Power 🔌](https://www.citython.eu/2021eindhoven)
-
-[![Citython 2021](https://img.youtube.com/vi/IcWZ962uYy0/0.jpg)](https://www.youtube.com/watch?v=IcWZ962uYy0 "Citython 2021")
 
 If you feel that **innovation** and **automation** are missing or not working as expected in your organization (especially in this new era), then something needs to change! 💡 Maybe the words to save FTEs are familiar to you.
 
