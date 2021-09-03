@@ -6,6 +6,10 @@
 
 ### 
 
+### [Winning Elevator Pitch (Speech) - Citython 2021, Eindhoven Edition](https://www.citython.eu/2021eindhoven)
+
+[![Citython 2021](https://img.youtube.com/vi/IcWZ962uYy0/0.jpg)](https://www.youtube.com/watch?v=IcWZ962uYy0 "Citython 2021")
+
 If you feel that **innovation** and **automation** are missing or not working as expected in your organization (especially in this new era), then something needs to change! 💡 Maybe the words to save FTEs are familiar to you.
 
 I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading and solving these “impossible” tasks, that’s me! Let’s work together in this new future. Are you ready?
@@ -47,6 +51,10 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 
 [![Timeless Stories of El Salvador](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/mybook/book_small.png)](https://amzn.to/3nnbn4e)
 
+### [Subscribe My YouTube Channel to Learn New Amazing Tricks](https://www.citython.eu/2021eindhoven)
+
+[![Build your 1st app with no code](https://img.youtube.com/vi/RzCuuJdDY-A/0.jpg)](https://www.youtube.com/watch?v=RzCuuJdDY-A "Build your 1st app with no code")
+
 ###  Download my Xamarin.Android libs!
 
 |  Package  |Latest Release|
@@ -80,9 +88,9 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
 
 ### Follow me at:
 
-|  LinkedIn  |YouTube|Instagram|RedCircle|
-|:----------|:------------:|:------------:|:------------:|
-|[![LinkedIn](https://i.stack.imgur.com/idQWu.png)](https://bit.ly/3xLCmvb)|[![YouTube](https://i.stack.imgur.com/CFPMR.png)](https://youtube.com/c/FedericoNavarrete)|[![Instagram](https://i.stack.imgur.com/PIfqY.png)](https://www.instagram.com/federico_the_consultant)|[![RedCircle Podcast](https://i.stack.imgur.com/4XICF.png)](https://redcircle.com/shows/cyber-prophets)|
+|  LinkedIn  |YouTube|Instagram|Cyber Prophets|Sharing Your Stories|
+|:----------|:------------:|:------------:|:------------:|:------------:|
+|[![LinkedIn](https://i.stack.imgur.com/idQWu.png)](https://bit.ly/3xLCmvb)|[![YouTube](https://i.stack.imgur.com/CFPMR.png)](https://youtube.com/c/FedericoNavarrete)|[![Instagram](https://i.stack.imgur.com/PIfqY.png)](https://www.instagram.com/federico_the_consultant)|[![RedCircle Podcast](https://i.stack.imgur.com/4XICF.png)](https://redcircle.com/shows/cyber-prophets)|[![RedCircle Podcast](https://i.stack.imgur.com/4XICF.png)](https://redcircle.com/shows/sharing-your-stories)|
 
   [1]: https://fanmixco.github.io/rpaBestPractices/
   [2]: https://federiconavarrete.com/apps.html
