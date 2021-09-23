@@ -34,12 +34,12 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 - Development of web and multi-platform apps.
 - Trainings: RPA Best Practices, Elevator Pitching, and Storytelling.
 
-𝐖𝐇𝐘 𝐌𝐄 & 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐀𝐓𝐈𝐎𝐍𝐒
+𝐖𝐇𝐘 𝐌𝐄?
 
 - I’m a visionary person who started at an early age to code (16 y.o.). Throughout my career, innovation has played a key role. I learned when to pivot and develop other important skills like Public Speaking, Cultural Intelligence and Team Building.
 - I wrote the 1st Salvadoran Folkloric Book in English, [**Timeless Stories of El Salvador**][6].
 - I crossed the ocean, winning an Erasmus Mundus scholarship. I broke many Latin American stereotypes in Europe. I won international competitions during my studies. Plus, I organized a Toastmasters Conference for half of Poland, bringing International Speakers.
-- Why me? Check my [apps][7] and their quality. Also, I've led successful RPAs & Apps migrations to Azure during Covid-19. Feel free to read my reviews on my [LinkedIn profile][3].
+- Download my [apps][7] and check their quality. Also, I've led successful RPAs & Apps migrations to Azure during Covid-19. Feel free to read my reviews on my [LinkedIn profile][3].
 
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
 
