@@ -47,9 +47,13 @@ I’ve been in those shoes when I didn’t save enough FTEs or lacked innovation
 - [Supernova IC][5]
 - [Cyber Prophets][8]
 
-### Get a copy of my book!
+Do you want to support my innovations, you can get a copy of my folkloric book, **Timeless Stories of El Salvador**:
 
-[![Timeless Stories of El Salvador](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/mybook/book_small.png)](https://amzn.to/3nnbn4e)
+[![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/book_small.png)](https://amzn.to/3nnbn4e)
+
+This book helps me change the perspective of my home country while you enjoy unique Legends and Fairy Tales from the tiniest country in Central America.
+
+![SV](http://federiconavarrete.com/img/sv.png)
 
 ### [Subscribe My YouTube Channel to Learn New Amazing Tricks](https://www.citython.eu/2021eindhoven)
 
