@@ -90,6 +90,16 @@ This book helps me change the perspective of my home country while you enjoy uni
 
 _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO App Market**._
 
+## My Recommended Books:
+
+|Business|Personal Branding|Life and Discovery|Climate Change|Literature|IT|
+|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+|[![moves][9]](https://amzn.to/3lriwSB)|[![natalia][10]](https://amzn.to/2MOgslZ)|[![friends][11]](https://bit.ly/2p0eZNl)|[![gates][12]](https://amzn.to/3dlgD5i)|[![potter][13]](https://amzn.to/2TtC6wY)|[![architecture][14]](https://bit.ly/3I29FjM)|
+|[![coach][19]](https://amzn.to/3rurjH1)||[![blood][15]](https://amzn.to/2XuIe9O)|||[![mapping][16]](https://bit.ly/377v3SN)|
+|[![impossible][17]](https://bit.ly/2L90eon)||[![worry][20]](https://amzn.to/2ivFURl)||||
+|||[![targeted][18]](https://amzn.to/31h16AM)||||
+|||[![monk][21]](https://amzn.to/2fjDsY5)||||
+
 ### Follow me at:
 
 |  LinkedIn  |YouTube|Instagram|Cyber Prophets|Sharing Your Stories|
@@ -104,3 +114,16 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
   [6]: https://www.amazon.com/dp/B08MQFZNM5
   [7]: https://federiconavarrete.com/apps.html
   [8]: https://redcircle.com/shows/cyber-prophets
+  [9]: https://federiconavarrete.com/img/books/en/moves.jpg
+  [10]: https://federiconavarrete.com/img/books/en/linkedin.jpg
+  [11]: https://federiconavarrete.com/img/books/en/WF.jpg
+  [12]: https://federiconavarrete.com/img/books/en/warming.jpg
+  [13]: https://federiconavarrete.com/img/books/en/HP.jpg
+  [14]: https://federiconavarrete.com/img/books/en/arch.jpg
+  [15]: https://federiconavarrete.com/img/books/en/blood.jpg
+  [16]: https://federiconavarrete.com/img/books/en/sm.jpg
+  [17]: https://federiconavarrete.com/img/books/en/impossible.jpg
+  [18]: https://federiconavarrete.com/img/books/en/targeted.jpg
+  [19]: https://federiconavarrete.com/img/books/en/coach.jpg
+  [20]: https://federiconavarrete.com/img/books/en/worry.jpg
+  [21]: https://federiconavarrete.com/img/books/en/monk.jpg
