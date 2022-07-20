@@ -94,11 +94,11 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
 
 |Business|Personal Branding|Life and Discovery|Climate Change|Literature|IT|
 |:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
-|[![moves][9]](https://amzn.to/3lriwSB)|[![natalia][10]](https://amzn.to/2MOgslZ)|[![friends][11]](https://bit.ly/2p0eZNl)|[![gates][12]](https://amzn.to/3dlgD5i)|[![potter][13]](https://amzn.to/2TtC6wY)|[![architecture][14]](https://bit.ly/3I29FjM)|
-|[![coach][19]](https://amzn.to/3rurjH1)||[![blood][15]](https://amzn.to/2XuIe9O)|||[![mapping][16]](https://bit.ly/377v3SN)|
-|[![impossible][17]](https://bit.ly/2L90eon)||[![worry][20]](https://amzn.to/2ivFURl)||||
-|||[![targeted][18]](https://amzn.to/31h16AM)||||
-|||[![monk][21]](https://amzn.to/2fjDsY5)||||
+|[![principles][22]](https://amzn.to/3OfRNUF)|[![natalia][10]](https://amzn.to/2MOgslZ)|[![friends][11]](https://bit.ly/2p0eZNl)|[![gates][12]](https://amzn.to/3dlgD5i)|[![potter][13]](https://amzn.to/2TtC6wY)|[![architecture][14]](https://bit.ly/3I29FjM)|
+|[![moves][9]](https://amzn.to/3lriwSB)||[![blood][15]](https://amzn.to/2XuIe9O)||[![monk][21]](https://amzn.to/2fjDsY5)|[![mapping][16]](https://bit.ly/377v3SN)|
+|[![ai][23]](https://amzn.to/3PJAv35)||[![worry][20]](https://amzn.to/2ivFURl)||||
+|[![impossible][17]](https://bit.ly/2L90eon)||[![targeted][18]](https://amzn.to/31h16AM)||||
+|[![coach][19]](https://amzn.to/3rurjH1)||[![blood][15]](https://amzn.to/2XuIe9O)||||||
 
 ### Follow me at:
 
@@ -127,3 +127,5 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
   [19]: https://federiconavarrete.com/img/books/en/coach.jpg
   [20]: https://federiconavarrete.com/img/books/en/worry.jpg
   [21]: https://federiconavarrete.com/img/books/en/monk.jpg
+  [22]: https://federiconavarrete.com/img/books/en/principles.jpg
+  [23]: https://federiconavarrete.com/img/books/en/ai.jpg
