@@ -78,7 +78,7 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 |**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://buildstats.info/nuget/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
 |**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
 
-### Download My Apps for Android and Windows 10+!
+### Download My Apps for Android and Windows 11!
 
 |  App  |Play Store|Galaxy Store|Microsoft Store|Amazon Appstore|Huawei AppGallery|
 |:----------|:------------:|:------------:|:------------:|:------------:|:------------:|
