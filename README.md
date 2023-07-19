@@ -50,9 +50,9 @@ For more info, check my [LinkedIn reviews][3] or download my [apps][7] ⏬.
 - [Supernova IC][5]
 - [Cyber Prophets][8]
 
-Do you want to support my innovations in a unique way? Get a copy of my **1st** folkloric book, **Timeless Stories of El Salvador**:
+Do you want to support my innovations in a unique way? Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
 
-[![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/book_small.png)](https://amzn.to/3nnbn4e)
+[![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/second_small.png)](https://a.co/d/asfWClh).
 
 This book helps me change the perspective of my home country while you enjoy unique **Legends** and **Fairy Tales** from the tiniest country in Central America.
 
