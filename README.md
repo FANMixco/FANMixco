@@ -53,7 +53,7 @@ For more info, check my [LinkedIn reviews][3] or download my [apps][7] ⏬.
 
 Do you want to support my innovations in a unique way? Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
 
-[![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/second_small.png)](https://a.co/d/asfWClh).
+[![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/second_small.png)](https://a.co/d/asfWClh)
 
 These books empower YOU to change the perspective of El Salvador while you enjoy unique **Legends** and **Fairy Tales** from the tiniest country in Central America.
 
