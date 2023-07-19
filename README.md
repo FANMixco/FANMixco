@@ -38,17 +38,18 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 
 - I'm a visionary who started at an early age to code (16 y.o.) Throughout my career, Innovation has played a key role. I learned when to pivot and develop other vital skills like Public Speaking, Cultural Intelligence, Project Management, and Team Building.
 - I became a **Dual Citizen**, **Spanish-Salvadoran**, in record time.
-- I wrote the 1st Salvadoran Folkloric Book in English, [**Timeless Stories of El Salvador**][6].
-- I crossed the ocean, winning an Erasmus Mundus scholarship to Poland. During my stay, I broke many Latin American stereotypes, won international competitions, and organized a Toastmasters Conference for half of Poland, bringing International Speakers.
-- I led successful RPAs & Azure and AWS app migrations during and post Covid-19.
+- I wrote the **1st Salvadoran Folkloric Book in English**, [**Timeless Stories of El Salvador**][6].
+- I crossed the ocean, winning an **Erasmus Mundus** scholarship to **Poland**. During my stay, I broke many Latin American stereotypes, won international competitions, and organized a **Toastmasters** Conference for half of Poland, bringing International Speakers.
+- I led successful RPAs & Azure and **AWS** app migrations during and post Covid-19.
 
 For more info, check my [LinkedIn reviews][3] or download my [apps][7] ⏬.
 
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
 
-- [federiconavarrete.com][4]
+- [Personal Website][4]
 - [Supernova IC][5]
 - [Cyber Prophets][8]
+- [Sharing Your Stories][24]
 
 Do you want to support my innovations in a unique way? Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
 
@@ -133,3 +134,4 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
   [21]: https://federiconavarrete.com/img/books/en/monk.jpg
   [22]: https://federiconavarrete.com/img/books/en/principles.jpg
   [23]: https://federiconavarrete.com/img/books/en/ai.jpg
+  [24]: https://redcircle.com/shows/sharing-your-stories
