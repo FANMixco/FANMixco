@@ -40,7 +40,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 - I became a **Dual Citizen**, **Spanish-Salvadoran**, in record time.
 - I wrote the **1st Salvadoran Folkloric Book in English**, [**Timeless Stories of El Salvador**][6].
 - I crossed the ocean, winning an **Erasmus Mundus** scholarship to **Poland**. During my stay, I broke many Latin American stereotypes, won international competitions, and organized a **Toastmasters** Conference for half of Poland, bringing International Speakers.
-- I led successful RPAs & Azure and **AWS** app migrations during and post Covid-19.
+- I've led successful RPAs & Azure and **AWS** app migrations during and post Covid-19.
 
 For more info, check my [LinkedIn reviews][3] or download my [apps][7] ⏬.
 
