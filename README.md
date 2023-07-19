@@ -55,7 +55,7 @@ Do you want to support my innovations in a unique way? Get a copy of my **folklo
 
 [![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/second_small.png)](https://a.co/d/asfWClh).
 
-This book helps me change the perspective of my home country while you enjoy unique **Legends** and **Fairy Tales** from the tiniest country in Central America.
+These books empower YOU to change the perspective of El Salvador while you enjoy unique **Legends** and **Fairy Tales** from the tiniest country in Central America.
 
 ![SV](http://federiconavarrete.com/img/sv.png)
 
