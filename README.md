@@ -36,7 +36,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 
 𝐖𝐇𝐘 𝐌𝐄?
 
-- I'm a visionary who started at an early age to code (16 y.o.) Throughout my career, Innovation has played a key role. I learned when to pivot and develop other vital skills like Public Speaking, Cultural Intelligence, Project Management, and Team Building.
+- I’m a visionary who started to code at an early age (16 y.o.). Throughout my career, Innovation has played a key role. I learned when to pivot and develop other vital skills like Public Speaking, Cultural Intelligence, Project Management, and Team Building.
 - I became a **Dual Citizen**, **Spanish-Salvadoran**, in record time.
 - I wrote the **1st Salvadoran Folkloric Book in English**, [**Timeless Stories of El Salvador**][6].
 - I crossed the ocean, winning an **Erasmus Mundus** scholarship to **Poland**. During my stay, I broke many Latin American stereotypes, won international competitions, and organized a **Toastmasters** Conference for half of Poland, bringing International Speakers.
