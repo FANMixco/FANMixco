@@ -18,7 +18,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 
 - Lead organizations in their Digital Transformations with AI, Cloud, and RPA, everything based on [Best Practices][1].
 - Oversee the development of innovative apps using AWS, OpenAI, JS, and .NET with excellent UI/UX.
-- Effective communication across IT teams, operations, and company leaders.
+- Create effective communication across IT teams, operations, and company leaders.
 - Design and implement effective migrations from on-premises to public clouds.
 
 𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓
