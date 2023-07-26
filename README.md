@@ -17,7 +17,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 𝐈𝐓 𝐏𝐑𝐎𝐁𝐋𝐄𝐌𝐒 𝐈 𝐒𝐎𝐋𝐕𝐄
 
 - Lead organizations in their Digital Transformations with AI, Cloud, and RPA, everything based on [Best Practices][1].
-- Oversee the development of innovative apps using AWS, OpenAI, JS, and .NET with excellent UI/UX.
+- Oversee the development of innovative apps with excellent UI/UX using AWS, OpenAI, JS, and .NET.
 - Create effective communication across IT teams, operations, and company leaders.
 - Design and implement effective migrations from on-premises to public clouds.
 
