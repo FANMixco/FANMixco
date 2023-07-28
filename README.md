@@ -21,7 +21,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 - Create effective communication across IT teams, operations, and company leaders.
 - Design and implement effective migrations from on-premises to public clouds.
 
-𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓
+𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓?
 
 - An experienced software innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. ➡️ [Portfolio][2]
 - A seasoned seller who has presented Winning Elevator Pitches to Microsoft, Cisco, the UN, and NASA for their innovation contests.
