@@ -12,7 +12,7 @@
 
 If you feel that **Innovation** and **Automation** are missing or not working as expected in your organization, something must change 💡! Maybe the words to save FTEs sound familiar to you 🤔.
 
-I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading **multicultural teams** and solving these “impossible” tasks, that’s me! Let’s work together in this new future. Are you ready?
+I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading **multicultural teams** and solving these “impossible” tasks, that’s me! Let’s start working together TODAY. Are you ready?
 
 𝐈𝐓 𝐏𝐑𝐎𝐁𝐋𝐄𝐌𝐒 𝐈 𝐒𝐎𝐋𝐕𝐄
 
