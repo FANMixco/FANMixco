@@ -12,7 +12,7 @@
 
 If you feel that **Innovation** and **Automation** are missing or not working as expected in your organization, something must change 💡! Maybe the words to save FTEs sound familiar to you 🤔.
 
-I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading and solving these “impossible” tasks, that’s me! Let’s work together in this new future. Are you ready?
+I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading **multicultural teams** and solving these “impossible” tasks, that’s me! Let’s work together in this new future. Are you ready?
 
 𝐈𝐓 𝐏𝐑𝐎𝐁𝐋𝐄𝐌𝐒 𝐈 𝐒𝐎𝐋𝐕𝐄
 
@@ -26,7 +26,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 - An experienced IT innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. ➡️ [Portfolio][2]
 - A seasoned seller who has presented Winning Elevator Pitches to Microsoft, Cisco, the UN, and NASA for their innovation contests.
 - A visionary in the quest for the next big thing, automating whenever possible. Again, do the words to save FTEs sound familiar to you? 🤔
-- An expert trainer who has trained over 100 people in soft-skills and multiple IT solutions like Automation Anywhere and Azure.
+- An expert trainer who has trained over 100 people in soft skills and multiple IT solutions like Automation Anywhere and Azure.
 
 𝐌𝐘 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 (𝐢𝐧 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 & 𝐒𝐩𝐚𝐧𝐢𝐬𝐡):
 
