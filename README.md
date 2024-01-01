@@ -55,7 +55,9 @@ For more info, check my [LinkedIn reviews][3] or download my [apps][7].
 - [Cyber Prophets][8]
 - [Sharing Your Stories][24]
 
-Would you like to support my innovations in a unique way? Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
+## Would you like to support my innovations in a unique way?
+
+Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
 
 [![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/second_small.png)](https://a.co/d/asfWClh)
 
