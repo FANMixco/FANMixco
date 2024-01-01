@@ -8,7 +8,11 @@
 
 [![sponsor me](https://raw.githubusercontent.com/FANMixco/Xamarin-SearchBar/master/bmc-rezr5vpd.gif)](https://github.com/sponsors/FANMixco/)
 
-### 
+### About me
+
+![logo](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/favicons/favicon.png)
+
+> Like a Phoenix, rise from the ashes stronger every time.
 
 If you feel that **Innovation** and **Automation** are missing or not working as expected in your organization, something must change 💡! Maybe the words to save FTEs sound familiar to you 🤔.
 
@@ -51,7 +55,7 @@ For more info, check my [LinkedIn reviews][3] or download my [apps][7] ⏬.
 - [Cyber Prophets][8]
 - [Sharing Your Stories][24]
 
-Do you want to support my innovations in a unique way? Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
+Would you like to support my innovations in a unique way? Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
 
 [![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/second_small.png)](https://a.co/d/asfWClh)
 
