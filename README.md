@@ -46,7 +46,7 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 - I crossed the ocean, winning an **Erasmus Mundus** scholarship to **Poland**. During my stay, I broke many Latin American stereotypes, won international competitions, and organized a **Toastmasters** Conference for half of Poland, bringing International Speakers.
 - I've led successful RPAs and **AWS**/Azure app migrations during and post Covid-19.
 
-For more info, check my [LinkedIn reviews][3] or download my [apps][7] ⏬.
+For more info, check my [LinkedIn reviews][3] or download my [apps][7].
 
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
 
