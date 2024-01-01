@@ -12,7 +12,7 @@
 
 ![logo](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/favicons/favicon.png)
 
-> Like a Phoenix, rise from the ashes stronger every time.
+> Like a Phoenix, rise stronger from your ashes every time.
 
 If you feel that **Innovation** and **Automation** are missing or not working as expected in your organization, something must change 💡! Maybe the words to save FTEs sound familiar to you 🤔.
 
