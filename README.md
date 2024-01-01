@@ -27,8 +27,9 @@ I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked
 
 𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓?
 
+- A leader who has collaborated with people from 90+ nationalities.
 - An experienced IT innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. ➡️ [Portfolio][2]
-- A seasoned seller who has presented Winning Elevator Pitches to Microsoft, Cisco, the UN, and NASA for their innovation contests.
+- A seasoned seller who has presented Winning Elevator Pitches to Microsoft, Cisco, the UN, the EU, and NASA for their innovation contests.
 - A visionary in the quest for the next big thing, automating whenever possible. Again, do the words to save FTEs sound familiar to you? 🤔
 - An expert trainer who has trained over 100 people in soft skills and multiple IT solutions like Automation Anywhere and Azure.
 
