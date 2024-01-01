@@ -8,7 +8,7 @@
 
 [![sponsor me](https://raw.githubusercontent.com/FANMixco/Xamarin-SearchBar/master/bmc-rezr5vpd.gif)](https://github.com/sponsors/FANMixco/)
 
-### About me
+## About me
 
 ![logo](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/favicons/favicon.png)
 
@@ -63,11 +63,11 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 
 ![SV](http://federiconavarrete.com/img/sv.png)
 
-### [Subscribe My YouTube Channel to Learn New Amazing Tricks](https://www.citython.eu/2021eindhoven)
+## [Subscribe My YouTube Channel to Learn New Amazing Tricks](https://www.citython.eu/2021eindhoven)
 
 [![Build your 1st app with no code](https://img.youtube.com/vi/RzCuuJdDY-A/0.jpg)](https://www.youtube.com/watch?v=RzCuuJdDY-A "Build your 1st app with no code")
 
-###  Download my Xamarin.Android libs!
+##  Download my Xamarin.Android libs
 
 |  Package  |Latest Release|
 |:----------|:------------:|
@@ -82,7 +82,7 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 |**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://buildstats.info/nuget/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
 |**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
 
-### Download My Apps for Android and Windows 11!
+## Download My Apps for Android and Windows 11
 
 |  App  |Play Store|Galaxy Store|Microsoft Store|Amazon Appstore|Huawei AppGallery|
 |:----------|:------------:|:------------:|:------------:|:------------:|:------------:|
@@ -98,7 +98,7 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 
 _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO App Market**._
 
-## My Recommended Books:
+## My Recommended Books
 
 |Business|Personal Branding|Life and Discovery|Climate Change|Literature|IT|
 |:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
@@ -109,7 +109,7 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
 |[![coach][19]](https://amzn.to/3rurjH1)||[![blood][15]](https://amzn.to/2XuIe9O)||||||
 |||[![monk][21]](https://amzn.to/2fjDsY5)|||||
 
-### Follow me at:
+## Follow me on
 
 |  LinkedIn  |YouTube|Amazon|Goodreads|Instagram|Cyber Prophets|Sharing Your Stories|TikTok|
 |:----------|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
