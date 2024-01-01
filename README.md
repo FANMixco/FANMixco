@@ -59,7 +59,7 @@ For more info, check my [LinkedIn reviews][3] or download my [apps][7].
 
 ## Would you like to support my innovations in a unique way?
 
-Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
+### Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
 
 [![Timeless Stories of El Salvador](https://federiconavarrete.com/img/mybook/second_small.png)](https://a.co/d/asfWClh)
 
@@ -67,11 +67,11 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 
 ![SV](http://federiconavarrete.com/img/sv.png)
 
-## [Subscribe My YouTube Channel to Learn New Amazing Tricks](https://www.citython.eu/2021eindhoven)
+### [Subscribe My YouTube Channel to Learn New Amazing Tricks](https://www.citython.eu/2021eindhoven)
 
 [![Build your 1st app with no code](https://img.youtube.com/vi/RzCuuJdDY-A/0.jpg)](https://www.youtube.com/watch?v=RzCuuJdDY-A "Build your 1st app with no code")
 
-##  Download my Xamarin.Android libs
+###  Download my Xamarin.Android libs
 
 |  Package  |Latest Release|
 |:----------|:------------:|
@@ -86,7 +86,7 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 |**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://buildstats.info/nuget/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
 |**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
 
-## Download My Apps for Android and Windows 11
+### Download My Apps for Android and Windows 11
 
 |  App  |Play Store|Galaxy Store|Microsoft Store|Amazon Appstore|Huawei AppGallery|
 |:----------|:------------:|:------------:|:------------:|:------------:|:------------:|
