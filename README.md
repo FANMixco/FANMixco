@@ -4,6 +4,8 @@
 
 ![FANMixco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanmixco&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FANMixco&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical)
+
 ### Support my innovations!
 
 [![sponsor me](https://raw.githubusercontent.com/FANMixco/Xamarin-SearchBar/master/bmc-rezr5vpd.gif)](https://github.com/sponsors/FANMixco/)
