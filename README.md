@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FANMixco&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FANMixco)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Support my innovations!
 
 [![sponsor me](https://raw.githubusercontent.com/FANMixco/Xamarin-SearchBar/master/bmc-rezr5vpd.gif)](https://github.com/sponsors/FANMixco/)
