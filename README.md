@@ -2,11 +2,9 @@
 
 [![Citython 2021](https://img.youtube.com/vi/IcWZ962uYy0/0.jpg)](https://www.youtube.com/watch?v=IcWZ962uYy0 "Citython 2021")
 
-![FANMixco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanmixco&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FANMixco&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FANMixco)](https://github.com/ryo-ma/github-profile-trophy)
+|  Stats  |Langs|
+|:----------|:------------:|
+|![FANMixco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanmixco&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FANMixco&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical)|
 
 ### Support my innovations!
 
@@ -129,6 +127,8 @@ _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO Ap
 |  LinkedIn  |YouTube|Amazon|Goodreads|Instagram|Cyber Prophets|Sharing Your Stories|TikTok|
 |:----------|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
 |[![LinkedIn](https://i.sstatic.net/idQWu.png)](https://www.linkedin.com/in/federiconavarrete)|[![YouTube](https://i.sstatic.net/CFPMR.png)](https://youtube.com/@FedericoNavarrete)|[![Amazon](https://i.sstatic.net/NFOeE.png)](https://www.amazon.com/Federico-Navarrete/e/B08NJTXQRV)|[![Goodreads](https://i.sstatic.net/oBk0g.jpg)](https://www.goodreads.com/author/show/21125413.Federico_Navarrete)|[![Instagram](https://i.sstatic.net/PIfqY.png)](https://www.instagram.com/federico_the_consultant)|[![RedCircle Podcast](https://i.sstatic.net/4XICF.png)](https://redcircle.com/shows/cyber-prophets)|[![RedCircle Podcast](https://i.sstatic.net/4XICF.png)](https://redcircle.com/shows/sharing-your-stories)|[![TikTok](https://i.sstatic.net/pP7X2.png)](https://www.tiktok.com/@federicostories)|
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FANMixco)](https://github.com/ryo-ma/github-profile-trophy)
 
   [1]: https://fanmixco.github.io/rpaBestPractices/
   [2]: https://federiconavarrete.com/apps.html
