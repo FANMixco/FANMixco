@@ -75,20 +75,27 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 
 [![Build your 1st app with no code](https://img.youtube.com/vi/RzCuuJdDY-A/0.jpg)](https://www.youtube.com/watch?v=RzCuuJdDY-A "Build your 1st app with no code")
 
-###  Download my Xamarin.Android libs
+###  Download my .NET for Android libs
 
-|  Package  |Latest Release|
-|:----------|:------------:|
-|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/v/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
-|**Xamarin-MaterialSearchBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/Xamarin-MaterialSearchBar)](https://www.nuget.org/packages/Xamarin-MaterialSearchBar/)|
-|**BubbleTabs.Xamarin**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/BubbleTabs.Xamarin)](https://www.nuget.org/packages/BubbleTabs.Xamarin/)|
-|**Xamarin-OneMoreFabMenu**|[![NuGet Badge Xamarin-OneMoreFabMenu](https://img.shields.io/nuget/v/Xamarin-OneMoreFabMenu)](https://www.nuget.org/packages/Xamarin-OneMoreFabMenu/)|
-|**Xamarin-MaterialSearchView**|[![NuGet Badge Xamarin-MaterialSearchView](https://img.shields.io/nuget/v/Xamarin-MaterialSearchView)](https://www.nuget.org/packages/Xamarin-MaterialSearchView/)|
-|**Xamarin-SmartRate**|[![NuGet Badge Xamarin-SmartRate](https://img.shields.io/nuget/v/Xamarin-SmartRate)](https://www.nuget.org/packages/Xamarin-SmartRate/)|
-|**ZoomImage-Xamarin**|[![NuGet Badge ZoomImage-Xamarin](https://img.shields.io/nuget/v/ZoomImage-Xamarin)](https://www.nuget.org/packages/ZoomImage-Xamarin/)|
-|**Xamarin-FiveStarsRate**|[![NuGet Badge Xamarin-FiveStarsRate](https://img.shields.io/nuget/v/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|
-|**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://img.shields.io/nuget/v/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
-|**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
+|  Package  |Latest Release|Downloads|
+|:----------|:------------:|:------------:|
+|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/v/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
+|**Xamarin-MaterialSearchBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/Xamarin-MaterialSearchBar)](https://www.nuget.org/packages/Xamarin-MaterialSearchBar/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/Xamarin-MaterialSearchBar)](https://www.nuget.org/packages/Xamarin-MaterialSearchBar/)|
+|**BubbleTabs.Xamarin**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/BubbleTabs.Xamarin)](https://www.nuget.org/packages/BubbleTabs.Xamarin/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/BubbleTabs.Xamarin)](https://www.nuget.org/packages/BubbleTabs.Xamarin/)|
+|**Xamarin-OneMoreFabMenu**|[![NuGet Badge Xamarin-OneMoreFabMenu](https://img.shields.io/nuget/v/Xamarin-OneMoreFabMenu)](https://www.nuget.org/packages/Xamarin-OneMoreFabMenu/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/Xamarin-OneMoreFabMenu)](https://www.nuget.org/packages/Xamarin-OneMoreFabMenu/)|
+|**Xamarin-MaterialSearchView**|[![NuGet Badge Xamarin-MaterialSearchView](https://img.shields.io/nuget/v/Xamarin-MaterialSearchView)](https://www.nuget.org/packages/Xamarin-MaterialSearchView/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/Xamarin-MaterialSearchView)](https://www.nuget.org/packages/Xamarin-MaterialSearchView/)|
+|**Xamarin-SmartRate**|[![NuGet Badge Xamarin-SmartRate](https://img.shields.io/nuget/v/Xamarin-SmartRate)](https://www.nuget.org/packages/Xamarin-SmartRate/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/Xamarin-SmartRate)](https://www.nuget.org/packages/Xamarin-SmartRate/)|
+|**ZoomImage-Xamarin**|[![NuGet Badge ZoomImage-Xamarin](https://img.shields.io/nuget/v/ZoomImage-Xamarin)](https://www.nuget.org/packages/ZoomImage-Xamarin/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/ZoomImage-Xamarin)](https://www.nuget.org/packages/ZoomImage-Xamarin/)|
+|**Xamarin-FiveStarsRate**|[![NuGet Badge Xamarin-FiveStarsRate](https://img.shields.io/nuget/v/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|
+|**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://img.shields.io/nuget/v/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
+|**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
+
+###  Download my JS libs
+
+|  Package  |Latest Release|Downloads|
+|:----------|:------------:|:------------:|
+|**Scrollable Tabs for Bootstrap 5**|[![npm version](https://img.shields.io/npm/v/scrolling-tabs-bootstrap-5)](https://www.npmjs.com/package/scrolling-tabs-bootstrap-5)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/npm/dt/scrolling-tabs-bootstrap-5)](https://www.npmjs.com/package/scrolling-tabs-bootstrap-5/)|
+|**Simple Rating Dialogue**|[![npm version](https://img.shields.io/npm/v/simple-rating-dialogue)](https://www.npmjs.com/package/simple-rating-dialogue)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/npm/dt/simple-rating-dialogue)](https://www.npmjs.com/package/simple-rating-dialogue/)|
 
 ### Download My Apps for Android and Windows 11
 
