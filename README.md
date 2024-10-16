@@ -79,16 +79,16 @@ These books empower YOU to change the perspective of El Salvador while you enjoy
 
 |  Package  |Latest Release|
 |:----------|:------------:|
-|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://buildstats.info/nuget/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
-|**Xamarin-MaterialSearchBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-MaterialSearchBar)](https://www.nuget.org/packages/Xamarin-MaterialSearchBar/)|
-|**BubbleTabs.Xamarin**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/BubbleTabs.Xamarin)](https://www.nuget.org/packages/BubbleTabs.Xamarin/)|
-|**Xamarin-OneMoreFabMenu**|[![NuGet Badge Xamarin-OneMoreFabMenu](https://buildstats.info/nuget/Xamarin-OneMoreFabMenu)](https://www.nuget.org/packages/Xamarin-OneMoreFabMenu/)|
-|**Xamarin-MaterialSearchView**|[![NuGet Badge Xamarin-MaterialSearchView](https://buildstats.info/nuget/Xamarin-MaterialSearchView)](https://www.nuget.org/packages/Xamarin-MaterialSearchView/)|
-|**Xamarin-SmartRate**|[![NuGet Badge Xamarin-SmartRate](https://buildstats.info/nuget/Xamarin-SmartRate)](https://www.nuget.org/packages/Xamarin-SmartRate/)|
-|**ZoomImage-Xamarin**|[![NuGet Badge ZoomImage-Xamarin](https://buildstats.info/nuget/ZoomImage-Xamarin)](https://www.nuget.org/packages/ZoomImage-Xamarin/)|
-|**Xamarin-FiveStarsRate**|[![NuGet Badge Xamarin-FiveStarsRate](https://buildstats.info/nuget/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|
-|**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://buildstats.info/nuget/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
-|**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://buildstats.info/nuget/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
+|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/v/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
+|**Xamarin-MaterialSearchBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/Xamarin-MaterialSearchBar)](https://www.nuget.org/packages/Xamarin-MaterialSearchBar/)|
+|**BubbleTabs.Xamarin**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/BubbleTabs.Xamarin)](https://www.nuget.org/packages/BubbleTabs.Xamarin/)|
+|**Xamarin-OneMoreFabMenu**|[![NuGet Badge Xamarin-OneMoreFabMenu](https://img.shields.io/nuget/v/Xamarin-OneMoreFabMenu)](https://www.nuget.org/packages/Xamarin-OneMoreFabMenu/)|
+|**Xamarin-MaterialSearchView**|[![NuGet Badge Xamarin-MaterialSearchView](https://img.shields.io/nuget/v/Xamarin-MaterialSearchView)](https://www.nuget.org/packages/Xamarin-MaterialSearchView/)|
+|**Xamarin-SmartRate**|[![NuGet Badge Xamarin-SmartRate](https://img.shields.io/nuget/v/Xamarin-SmartRate)](https://www.nuget.org/packages/Xamarin-SmartRate/)|
+|**ZoomImage-Xamarin**|[![NuGet Badge ZoomImage-Xamarin](https://img.shields.io/nuget/v/ZoomImage-Xamarin)](https://www.nuget.org/packages/ZoomImage-Xamarin/)|
+|**Xamarin-FiveStarsRate**|[![NuGet Badge Xamarin-FiveStarsRate](https://img.shields.io/nuget/v/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|
+|**Xamarin.Search.Dialog**|[![NuGet Badge Xamarin.Search.Dialog](https://img.shields.io/nuget/v/Xamarin.Search.Dialog)](https://www.nuget.org/packages/Xamarin.Search.Dialog/)|
+|**Xamarin-SmoothBottomBar**|[![NuGet Badge Xamarin-MaterialSearchBar](https://img.shields.io/nuget/v/Xamarin-SmoothBottomBar)](https://www.nuget.org/packages/Xamarin-SmoothBottomBar/)|
 
 ### Download My Apps for Android and Windows 11
 
