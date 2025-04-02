@@ -16,41 +16,51 @@
 
 > Like a Phoenix, rise stronger from your ashes every time.
 
-If you feel that **Innovation** and **Automation** are missing or not working as expected in your organization, something must change 💡! Maybe the words to save FTEs sound familiar to you 🤔.
+💡 Struggling with Cloud Costs, Inefficient Migrations, or Failed Digital Transformations?
 
-I’ve been in those shoes when I didn’t save enough FTEs or innovation lacked in my solutions. What did I do? I reskilled, adapted, and accomplished results beyond expectations. If you need a leader capable of leading **multicultural teams** and solving these “impossible” tasks, that’s me! Let’s start working together TODAY. Are you ready?
+If your organization is facing skyrocketing cloud debt, AI hype with no real impact, or misaligned IT strategies, I can level up your game 🔝.
 
-𝐈𝐓 𝐏𝐑𝐎𝐁𝐋𝐄𝐌𝐒 𝐈 𝐒𝐎𝐋𝐕𝐄
+I specialize in turning IT chaos into structured, cost-effective, and high-performing digital transformations. Whether it's Cloud, AI, or RPA, my expertise ensures technology aligns with business goals, not just tech trends.
 
-- Lead organizations in their Digital Transformations with AI, Cloud, and RPA, everything based on [Best Practices][1].
-- Strategize re-engineerings and migrations to clouds focused on reducing CO₂ emissions.
-- Oversee the development of innovative apps with excellent UI/UX using AWS, OpenAI, JS, and .NET.
-- Create effective communication across IT teams, operations, and company leaders.
-- Design and implement effective migrations from on-premises to public clouds.
 
-𝐖𝐇𝐀𝐓 𝐘𝐎𝐔 𝐆𝐄𝐓?
+**🚀 WHAT DO I DO?**
 
-- A leader who has collaborated with people from 90+ nationalities.
-- An experienced IT innovator with a proven track record in corporations and personal ventures in Windows, Android, and Web. ➡️ [Portfolio][2]
-- A seasoned seller who has presented Winning Elevator Pitches to Microsoft, Cisco, the UN, the EU, and NASA for their innovation contests.
-- A visionary in the quest for the next big thing, automating whenever possible. Again, do the words to save FTEs sound familiar to you? 🤔
-- An expert trainer who has trained over 100 people in soft skills and multiple IT solutions like Automation Anywhere and Azure.
+✔ Lead Digital Transformations—from strategy to execution, ensuring AI, Cloud, and RPA actually drive ROI.
 
-𝐌𝐘 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 (𝐢𝐧 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 & 𝐒𝐩𝐚𝐧𝐢𝐬𝐡):
+✔ Turn Cloud Migrations into Success Stories—reducing costs, CO₂ emissions, and operational risks.
 
-- Project management and cloud migrations.
-- Development of web and multi-platform apps.
-- Trainings: RPA Best Practices, Elevator Pitching, and Storytelling.
+✔ Bridge the Gap Between Tech & Leadership—aligning IT teams, operations, and executives for clear, effective decision-making.
 
-𝐖𝐇𝐘 𝐌𝐄?
+✔ Build & Lead Multicultural Teams—driving innovation across industries with a global mindset.
 
-- I’m a visionary who started to code at an early age (16 y.o.). Throughout my career, **innovation** has played a key role. I learned when to pivot and develop other vital skills like Public Speaking, Cultural Intelligence, Project Management, and Team Building.
-- I became a **Dual Citizen**, **Spanish-Salvadoran**, in record time.
-- I wrote the **1st Salvadoran Folkloric Book in English**, [**Timeless Stories of El Salvador**][6].
-- I crossed the ocean, winning an **Erasmus Mundus** scholarship to **Poland**. During my stay, I broke many Latin American stereotypes, won international competitions, and organized a **Toastmasters** Conference for half of Poland, bringing International Speakers.
-- I've led successful RPAs and **AWS**/Azure app migrations during and post Covid-19.
 
-For more info, check my [LinkedIn reviews][3] or download my [apps][7].
+**🧧 MY SERVICES:**
+
+🔥 Project management and cloud migrations.
+
+🔥 Develop web and multi-platform apps.
+
+🔥 Trainings: Elevator Pitching and Storytelling.
+
+
+**🏅 WHY ME?**
+
+🔹 Proven Leader in Digital Strategy & Cloud Governance—helped organizations fix their FinOps blind spots and control cloud debt.
+
+🔹 Consulted for High-Impact Organizations—including Ericsson and the European Commission.
+
+🔹 Tech-Driven, Business-Focused—a rare mix of deep IT expertise (AWS, OpenAI, RPA, .NET) and strategic thinking.
+
+🔹 Multicultural Experience—collaborated with 90+ nationalities, excelling in high-pressure international environments.
+
+🔹 Expert Communicator—trained 100+ professionals in storytelling, pitching, and technical skills to drive business success.
+
+🔹 A Seasoned Seller & Elevator Pitch Expert—presented winning pitches to Microsoft, Cisco, the UN, the EU, NASA, and even in the European Parliament on Cloud-Friendly Contracts.
+
+🔹 A Pioneering Writer—creating the 1st Salvadoran Folkloric Book in English, [Timeless Stories of El Salvador](amzn.to/3nnbn4e).
+
+
+🌍 Let’s Transform Your Organization, Together.
 
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
 
