@@ -67,7 +67,7 @@ I specialize in turning IT chaos into structured, cost-effective, and high-perfo
 
 ## Would you like to support my innovations in a unique way?
 
-### Get a copy of my **folkloric books**, **Timeless Stories of El Salvador**:
+### Get a copy of my **folkloric books**, **Timeless Stories of El Salvador — Spanish Mirrors**:
 
 [![Spanish Mirrors](https://raw.githubusercontent.com/FANMixco/federiconavarrete/refs/heads/master/img/mybook/mirrors_small.png)](https://a.co/d/0euSZ7mF)
 
