@@ -12,51 +12,45 @@
 
 > Like a Phoenix, rise stronger from your ashes every time.
 
-💡 Struggling with Cloud Costs, Inefficient Migrations, or Failed Digital Transformations?
+**💡 Technology should create business value, not complexity.**
 
-If your organization is facing skyrocketing cloud debt, AI hype with no real impact, or misaligned IT strategies, I can level up your game 🔝.
+I help organizations modernize complex IT landscapes through enterprise architecture, AI, cloud transformation, and strategic technology leadership. My focus is on turning ambitious digital initiatives into measurable business outcomes by aligning technology, governance, and people.
 
-I specialize in turning IT chaos into structured, cost-effective, and high-performing digital transformations. Whether it's Cloud, AI, or RPA, my expertise ensures technology aligns with business goals, not just tech trends.
+During the last decade, I have led modernization initiatives ranging from legacy enterprise systems and cloud migration to AI adoption, enterprise governance, and digital transformation across multinational organizations.
 
+**What I do**
 
-**🚀 WHAT DO I DO?**
+✔ Enterprise Architecture & Digital Transformation
 
-✔ Lead Digital Transformations—from strategy to execution, ensuring AI, Cloud, and RPA actually drive ROI.
+✔ AI & GenAI Strategy and Adoption
 
-✔ Turn Cloud Migrations into Success Stories—reducing costs, CO₂ emissions, and operational risks.
+✔ Cloud Strategy, Governance & FinOps
 
-✔ Bridge the Gap Between Tech & Leadership—aligning IT teams, operations, and executives for clear, effective decision-making.
+✔ Legacy Modernization & Technology Roadmaps
 
-✔ Build & Lead Multicultural Teams—driving innovation across industries with a global mindset.
+✔ Executive Technology Advisory
 
-
-**🧧 MY SERVICES:**
-
-🔥 Project management and cloud migrations.
-
-🔥 Develop web and multi-platform apps.
-
-🔥 Trainings: Elevator Pitching and Storytelling.
+✔ Technical Leadership & Multicultural Teams
 
 
-**🏅 WHY ME?**
+**Selected Highlights**
 
-🔹 Proven Leader in Digital Strategy & Cloud Governance—helped organizations fix their FinOps blind spots and control cloud debt.
+🏅 Architected enterprise modernization initiatives within the European Commission, including governance frameworks and AI-assisted modernization of mission-critical legacy systems.
 
-🔹 Consulted for High-Impact Organizations—including Ericsson and the European Commission.
+🏅 Reduced AWS waste by 40% through the institution's first cloud cost optimization initiative.
 
-🔹 Tech-Driven, Business-Focused—a rare mix of deep IT expertise (AWS, OpenAI, RPA, .NET) and strategic thinking.
+🏅 Published the first Salvadoran folklore book series in English, presented internationally through Cervantes Institutes and Salvadoran diplomatic missions.
 
-🔹 Multicultural Experience—collaborated with 90+ nationalities, excelling in high-pressure international environments.
+🏅 Built more than 20 applications with 60,000+ downloads, including the #1 Toastmasters Timer on Google Play worldwide.
 
-🔹 Expert Communicator—trained 100+ professionals in storytelling, pitching, and technical skills to drive business success.
-
-🔹 A Seasoned Seller & Elevator Pitch Expert—presented winning pitches to Microsoft, Cisco, the UN, the EU, NASA, and even in the European Parliament on Cloud-Friendly Contracts.
-
-🔹 A Pioneering Writer—creating the 1st Salvadoran Folkloric Book in English, [Timeless Stories of El Salvador](https://amzn.to/3nnbn4e).
+🏅 International speaker on enterprise architecture, AI, cloud computing, digital transformation, and innovation.
 
 
-🌍 Let’s Transform Your Organization, Together.
+**My approach**
+
+I enjoy working where technology, strategy, and leadership intersect. Whether advising executives, designing enterprise architectures, or building production-ready solutions, my goal is always the same: deliver sustainable business value through pragmatic execution.
+
+**🌍 Enterprise Architecture • AI • Cloud • Digital Transformation • Executive Advisory**
 
 𝐆𝐄𝐓 𝐈𝐍 𝐓𝐎𝐔𝐂𝐇
 
