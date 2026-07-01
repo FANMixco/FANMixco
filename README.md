@@ -39,7 +39,7 @@ During the last decade, I have led modernization initiatives ranging from legacy
 
 🏅 Reduced AWS waste by 40% through the institution's first cloud cost optimization initiative.
 
-🏅 Published the first Salvadoran folklore book series in English, presented internationally through Cervantes Institutes and Salvadoran diplomatic missions.
+🏅 Created the first Salvadoran folklore book series in English and expanded it into a trilingual collection (English, Spanish, and French), including a pioneering comparative volume connecting Salvadoran and Spanish folklore. Presented internationally through Cervantes Institutes and Salvadoran diplomatic missions.
 
 🏅 Built more than 20 applications with 60,000+ downloads, including the #1 Toastmasters Timer on Google Play worldwide.
 
