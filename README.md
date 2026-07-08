@@ -108,6 +108,7 @@ I enjoy working where technology, strategy, and leadership intersect. Whether ad
 |**Let's Stop Diabetes Premium**|||[![LSD Premium](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/3BLy1vh)|||
 |**Let's Stop Diabetes**|||[![LSD](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/3BAlVEY)|||
 |**The Wet Zone**|||[![TWZ](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://bit.ly/36YeWaS)|||
+|**Career Signal Engine**|||[![CSE](https://raw.githubusercontent.com/FANMixco/federiconavarrete/master/img/stores_badges/microsoft_micro.png)](https://apps.microsoft.com/detail/9p4nqtp3mj0r?hl=en-US&gl=LU)|||
 
 _Some of my Andriod Apps can be downloaded from **Xiaomi GetApps** and **OPPO App Market**._
 
